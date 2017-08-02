@@ -1,2 +1,2 @@
 # LearningHowToLearn
-An must-have book by Eman Amini
+A must-have book by Eman Amini
